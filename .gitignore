@@ -1,3 +1,5 @@
 ﻿bin
 obj
 .vs
+packages/MSTest.TestAdapter.2.2.10
+packages/MSTest.TestFramework.2.2.10
